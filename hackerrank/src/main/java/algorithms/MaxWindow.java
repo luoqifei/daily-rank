@@ -20,15 +20,15 @@ public class MaxWindow {
         LinkedList<Integer> maxQueue = new LinkedList<>();
         int[] res = new int[arr.length-w+1];
         int index = 0;
-        for (int i = 0; i < arr.length; i++) {
-            while (!maxQueue.isEmpty() && arr[maxQueue.peekLast()]<=arr[i]){
-                maxQueue.pollLast();
+        for (int i = 0; i < arr.length; i++) {//遍历数组
+            while (!maxQueue.isEmpty() && arr[maxQueue.peekLast()]<=arr[i]){//队列的末尾索引对应的数组元素<= 当前遍历的数组元素
+                maxQueue.pollLast();//弹出队列末尾的索引
             }
-            maxQueue.addLast(i);
-            if(maxQueue.peekFirst() == i - w){
-                maxQueue.pollFirst();
+            maxQueue.addLast(i);//将当前遍历数组索引存入队列
+            if(maxQueue.peekFirst() == i - w){//因为索引是递增的0~n-1，如果队首索引与当前遍历的索引差值==w，说明这个索引过期了
+                maxQueue.pollFirst();//将队首索引移除
             }
-            if(i+1>=w){
+            if(i+1>=w){//若遍历的索引加1大于等于3，那就可以才是获取队首索引对应的元素作为结果集之一存入res数组
                 res[index++] = arr[maxQueue.peekFirst()];
             }
         }
