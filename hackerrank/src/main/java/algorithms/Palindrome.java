@@ -55,7 +55,6 @@ public class Palindrome {
         }
         //填充完成后，开始遍历字符数组每个元素，找到以该元素为中心的最大回文字串的长度，并记住索引
         char[] resultCharArr = sb.toString().toCharArray();
-        System.out.println(resultCharArr);
         int maxLength = 0;
         int pointI = 0;//记录获取较大回文串时候，基准元素的索引i
         for (int i = 0; i < resultCharArr.length; i++) {
@@ -72,7 +71,6 @@ public class Palindrome {
                 maxLength = tmpLength-1;
             }
         }
-        System.out.println(pointI+" "+maxLength);
         //遍历完成后，就获得了基准索引pointI，以及周边步长point范围内的回文，需除掉特殊字符
         StringBuilder r = new StringBuilder();
         for(int i=pointI-maxLength;i<=pointI+maxLength;i++){
