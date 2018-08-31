@@ -1,10 +1,10 @@
 # daily-rank
 
-##日常排位赛记录
+## 日常排位赛记录
 
-###my HackerRank code
+### my HackerRank code
 
-###my LeetCode rank
+### my LeetCode rank
 
 代码里有详细的题目描述和解法分析
 
