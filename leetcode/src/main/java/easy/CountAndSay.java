@@ -9,7 +9,7 @@ package easy;
  * 4.     1211
  * 5.     111221
  * 第一项是1，第二项是11，第五项是111221，很明显，第六项就是312211，现在就是求第n项内容是多少。
- * See 原题 @see <a href="https://leetcode-cn.com/problems/count-and-say/description/">leetcode 报数</a>
+ * @see <a href="https://leetcode-cn.com/problems/count-and-say/description/">leetcode 报数</a>
  */
 public class CountAndSay {
     public static String countAndSay(int n) {
