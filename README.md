@@ -15,3 +15,6 @@
 *[组合排序 combination](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/CombinationSum.java)
 
 *[组合排序 combination II](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/CombinationSum2.java)
+
+*[两两交换链表中的节点 Swap Nodes in Pairs](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/SwapPairs.java)
+
