@@ -18,3 +18,5 @@
 
 *[两两交换链表中的节点 Swap Nodes in Pairs](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/SwapPairs.java)
 
+*[最长公共前缀 Longest Common Prefix](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/LongestCommonPrefix.java)
+
