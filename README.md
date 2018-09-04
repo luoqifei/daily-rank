@@ -26,4 +26,6 @@
 
 *[两个数组的交集 Intersection of Two Arrays](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/Intersection.java)
 
+*[两个数组的交集II Intersection of Two Arrays II](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/Intersect2.java)
+
 
