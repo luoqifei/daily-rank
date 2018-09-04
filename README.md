@@ -24,3 +24,6 @@
 
 *[实现strStr() Implement strStr()](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/IndexOf.java)
 
+*[两个数组的交集 Intersection of Two Arrays](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/Intersection.java)
+
+
