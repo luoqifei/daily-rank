@@ -22,3 +22,5 @@
 
 *[盛最多水的容器Container With Most Water](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/MaxArea.java)
 
+*[实现strStr() Implement strStr()](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/IndexOf.java)
+
