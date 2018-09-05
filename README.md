@@ -30,4 +30,5 @@
 
 *[快速排序算法 quick sort](https://github.com/luoqifei/daily-rank/blob/master/algorithm/src/main/java/QuickSort.java)
 
+*[链表排序 list sort](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/SortList.java)
 
