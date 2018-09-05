@@ -28,4 +28,6 @@
 
 *[两个数组的交集II Intersection of Two Arrays II](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/Intersect2.java)
 
+*[快速排序算法 quick sort](https://github.com/luoqifei/daily-rank/blob/master/algorithm/src/main/java/QuickSort.java)
+
 
