@@ -4,9 +4,13 @@
 
 ### my HackerRank code
 
+HackerRank code BasePath:
+
+https://github.com/luoqifei/daily-rank/tree/master/hackerrank/src/main/java
+
 ### my LeetCode rank
 
-BasePath:
+LeetCode BasePath:
 
 https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java
 
@@ -14,7 +18,7 @@ https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java
 
 算法题清单
 
-###字符串算法
+### 字符串算法
 
 *[二进制求和 add binary](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/AddBinary.java)
 
