@@ -34,3 +34,5 @@
 
 *[复原IP地址 Restore IP Addresses](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/RestoreIpAddresses.java)
 
+*[最后一个单词的长度 Length of Last Word](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/LengthOfLastWord.java)
+
