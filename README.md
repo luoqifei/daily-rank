@@ -32,6 +32,9 @@ https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java
 
 *[无重复字符的最长子串 LongestSubstring](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/LongestSubstring.java)
 
+*[验证回文串 is palindrome](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/string/IsPalindrome.java)
+
+
 
 *[组合排序 combination](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/CombinationSum.java)
 
