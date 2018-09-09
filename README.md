@@ -36,6 +36,7 @@ https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java
 
 *[字符串中的单词数 count segments](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/string/CountSegments.java)
 
+*[反转字符串 Reverse String](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/string/ReverseString.java)
 
 *[组合排序 combination](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/CombinationSum.java)
 
