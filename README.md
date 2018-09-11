@@ -38,6 +38,13 @@ https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java
 
 *[反转字符串 Reverse String](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/string/ReverseString.java)
 
+### 二分查找算法
+
+*[二分查找 binary Search](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/easy/binarySearch/BinarySearch.java)
+
+*[判断子序列 is subsequence](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/binarySearch/IsSubsequence.java)
+
+
 *[组合排序 combination](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/CombinationSum.java)
 
 *[组合排序 combination II](https://github.com/luoqifei/daily-rank/blob/master/leetcode/src/main/java/medium/CombinationSum2.java)
